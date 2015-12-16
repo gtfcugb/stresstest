@@ -1,0 +1,3 @@
+{"ip":"192.168.3.151",
+"port":8000,"client_num":999,
+"server_address":"/home/felix/tool/stresstest/script/server.lua","client_address":"/home/felix/tool/stresstest/script/client.lua"}
