@@ -1,0 +1,3 @@
+{"ip":"192.168.1.90",
+"port":2000,"client_num":200,
+"server_address":"E:\\work project\\stresstest\\script\\1200test\\register_server17.lua","client_address":"E:\\work project\\stresstest\\script\\1200test\\register_client.lua"}

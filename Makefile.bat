@@ -1,0 +1,1 @@
+gcc -o main main.c stress_client.c stress_engine.c stress_env.c stress_server.c -I/usr/local/include -L/usr/local/lib -llua -ljson -lfcgame -lws2_32
